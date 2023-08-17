@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">ExercicioFixacao</string>
+
+    //Exercicio 1
+    <string name="txtcardapio">Insira a quantidade dos pedidos</string>
+
+    <string name="txtCachorroQuente">Cachorro Quente: R$2,00</string>
+    <string name="txtRefrigerante">Refrigerante: R$2,50</string>
+    <string name="txtSobremesa">Sobremesa: R$1,50</string>
+
+    <string name="qtdCachorroQuente"/>
+    <string name="qtdRefrigerante"/>
+    <string name="qtdSobremesa"/>
+
+    <string name="btncalcular">Calcular</string>
+
+    <string name="txtvalortotal">Total:</string>
+
+    <string name="btnproximo">Proximo Exercicio</string>
+
+
+
+    //Exercicio 2
+    <string name="txttitulo">Digite para verificar se é multiplo ou não</string>
+
+    <string name="txtnum1">1º Número</string>
+    <string name="txtvalor1"/>
+
+    <string name="txtnum2">2º Número</string>
+    <string name="txtvalor2"/>
+
+    <string name="btnverificar">Calcular</string>
+
+    <string name="txtverificacao"/>
+
+    <string name="btnvoltar">Exercicio anterior</string>
+
+    <string name="btnsair"/>
+</resources>
